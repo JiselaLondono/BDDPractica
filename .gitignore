@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+
+# Java
+build/
+out/
+history/
+
+# Intellij idea
+.idea/
+logs/
+
+# Serenity
+target/
+
+# Package files
+*.jar
+
+# Not ingnoring
+!gradle-wrapper.jar
+
+#Logs
+*.log
